@@ -10,3 +10,9 @@ td, th {
 svg {
     height: 150px;
 }
+
+.table-temperature:hover {
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
